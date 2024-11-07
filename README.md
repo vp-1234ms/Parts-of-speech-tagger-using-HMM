@@ -51,3 +51,6 @@ Viterbi Algorithm: Used for sequence prediction based on trained transition and 
 Accuracy Calculation: Compares predicted tags to expected tags and calculates the accuracy
 
 
+![WhatsApp Image 2024-11-07 at 12 40 59 PM](https://github.com/user-attachments/assets/12e85e32-86dd-4adf-9015-a70f518c2c24)
+
+
